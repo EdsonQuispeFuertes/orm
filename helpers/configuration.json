@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "ip": "",
+        "port": 0,
+        "db": "",
+        "user": "",
+        "password": ""
+    }
+}
